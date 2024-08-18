@@ -12,7 +12,7 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
  ![image](https://github.com/RukashDG/Plasma-Donor-Application/blob/main/Images/Plasma%20Criteria.jfif)
  
 # Software Required
- - Python
+ - Spring Boot
  - Flask
  - Docker
  
